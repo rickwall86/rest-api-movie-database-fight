@@ -1,3 +1,4 @@
+// Reusable autocomplete dropdown
 const createAutoComplete = ({
   root,
   renderOption,
